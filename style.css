@@ -11,6 +11,8 @@
 .sandwich {
     position: relative;
     width: 400px;
+    height: 200px;
+    margin: 10px; 
 }
 
 .lettuce {
@@ -32,3 +34,4 @@
     height: 20px;
     background-color: darkred;
 }
+
